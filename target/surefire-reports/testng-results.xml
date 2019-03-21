@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="seleniumTests.E2E_Test" duration-ms="11333" started-at="2019-03-21T04:44:00Z" finished-at="2019-03-21T04:44:12Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11333" started-at="2019-03-21T04:44:00Z" finished-at="2019-03-21T04:44:12Z">
+      <class name="seleniumTests.E2E_Test">
+        <test-method status="PASS" signature="test()[pri:0, instance:seleniumTests.E2E_Test@79698539]" name="test" duration-ms="11304" started-at="2019-03-21T04:44:01Z" finished-at="2019-03-21T04:44:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- seleniumTests.E2E_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- seleniumTests.E2E_Test -->
+</testng-results>
